@@ -5,13 +5,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RITIKgr8/DSA/tree/master/0070-climbing-stairs) |
+| [1025-divisor-game](https://github.com/RITIKgr8/DSA/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RITIKgr8/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RITIKgr8/DSA/tree/master/0070-climbing-stairs) |
+| [1025-divisor-game](https://github.com/RITIKgr8/DSA/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RITIKgr8/DSA/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/RITIKgr8/DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/RITIKgr8/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
