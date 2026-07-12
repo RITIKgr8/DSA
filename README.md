@@ -52,4 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RITIKgr8/DSA/tree/master/0141-linked-list-cycle) |
+| [1331-rank-transform-of-an-array](https://github.com/RITIKgr8/DSA/tree/master/1331-rank-transform-of-an-array) |
+## Array
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/RITIKgr8/DSA/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/RITIKgr8/DSA/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
