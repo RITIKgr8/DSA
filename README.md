@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RITIKgr8/DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/RITIKgr8/DSA/tree/master/0070-climbing-stairs) |
+| [0633-sum-of-square-numbers](https://github.com/RITIKgr8/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/RITIKgr8/DSA/tree/master/1025-divisor-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RITIKgr8/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RITIKgr8/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/RITIKgr8/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RITIKgr8/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/RITIKgr8/DSA/tree/master/0234-palindrome-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/RITIKgr8/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/RITIKgr8/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RITIKgr8/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RITIKgr8/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/RITIKgr8/DSA/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
