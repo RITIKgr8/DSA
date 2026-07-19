@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RITIKgr8/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/RITIKgr8/DSA/tree/master/1108-defanging-an-ip-address) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/RITIKgr8/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RITIKgr8/DSA/tree/master/0234-palindrome-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RITIKgr8/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/RITIKgr8/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RITIKgr8/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RITIKgr8/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
