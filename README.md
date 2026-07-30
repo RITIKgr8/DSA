@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/RITIKgr8/DSA/tree/master/0706-design-hashmap) |
 | [1260-shift-2d-grid](https://github.com/RITIKgr8/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RITIKgr8/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/RITIKgr8/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RITIKgr8/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RITIKgr8/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RITIKgr8/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/RITIKgr8/DSA/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RITIKgr8/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
 |  |
