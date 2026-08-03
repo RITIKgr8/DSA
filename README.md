@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/RITIKgr8/DSA/tree/master/0058-length-of-last-word) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RITIKgr8/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/RITIKgr8/DSA/tree/master/1108-defanging-an-ip-address) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RITIKgr8/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
