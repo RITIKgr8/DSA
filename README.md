@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/RITIKgr8/DSA/tree/master/0706-design-hashmap) |
 | [1331-rank-transform-of-an-array](https://github.com/RITIKgr8/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RITIKgr8/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/RITIKgr8/DSA/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -102,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RITIKgr8/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RITIKgr8/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RITIKgr8/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/RITIKgr8/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RITIKgr8/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/RITIKgr8/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/RITIKgr8/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RITIKgr8/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
