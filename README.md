@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RITIKgr8/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RITIKgr8/DSA/tree/master/0058-length-of-last-word) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RITIKgr8/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/RITIKgr8/DSA/tree/master/1108-defanging-an-ip-address) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RITIKgr8/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/RITIKgr8/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RITIKgr8/DSA/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RITIKgr8/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RITIKgr8/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RITIKgr8/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RITIKgr8/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
