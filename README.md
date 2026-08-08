@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RITIKgr8/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RITIKgr8/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/RITIKgr8/DSA/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/RITIKgr8/DSA/tree/master/0706-design-hashmap) |
 | [1331-rank-transform-of-an-array](https://github.com/RITIKgr8/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RITIKgr8/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/RITIKgr8/DSA/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/RITIKgr8/DSA/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/RITIKgr8/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/RITIKgr8/DSA/tree/master/1260-shift-2d-grid) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/RITIKgr8/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/RITIKgr8/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/RITIKgr8/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/RITIKgr8/DSA/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RITIKgr8/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/RITIKgr8/DSA/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RITIKgr8/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
