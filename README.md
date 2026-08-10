@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RITIKgr8/DSA/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/RITIKgr8/DSA/tree/master/0706-design-hashmap) |
+| [0739-daily-temperatures](https://github.com/RITIKgr8/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/RITIKgr8/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/RITIKgr8/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RITIKgr8/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/RITIKgr8/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/RITIKgr8/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RITIKgr8/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/RITIKgr8/DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RITIKgr8/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RITIKgr8/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/RITIKgr8/DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RITIKgr8/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
