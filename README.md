@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/RITIKgr8/DSA/tree/master/0155-min-stack) |
 | [0706-design-hashmap](https://github.com/RITIKgr8/DSA/tree/master/0706-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/RITIKgr8/DSA/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -211,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RITIKgr8/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/RITIKgr8/DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/RITIKgr8/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
