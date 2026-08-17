@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RITIKgr8/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/RITIKgr8/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/RITIKgr8/DSA/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/RITIKgr8/DSA/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RITIKgr8/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/RITIKgr8/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/RITIKgr8/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/RITIKgr8/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RITIKgr8/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RITIKgr8/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RITIKgr8/DSA/tree/master/0739-daily-temperatures) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RITIKgr8/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/RITIKgr8/DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
